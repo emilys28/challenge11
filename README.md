@@ -36,12 +36,16 @@ Assemble the scraped data into a Pandas DataFrame. The columns should have the s
 - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
 -- Find the average minimum daily temperature for all of the months.
 -- Plot the results as a bar chart.
+  Image 1: Mars coldest and the warmest months
+<img width="1233" alt="MARS coldest & warmest months" src="https://github.com/emilys28/challenge11/blob/429df88e82674a4c316cd6a91c66873392055b75/graphs/avgmintemp_bycoldest.png">
 - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 -- Find the average daily atmospheric pressure of all the months.
 -- Plot the results as a bar chart.
+  <img width="1233" alt="MARS atmosphere pressures" src="https://github.com/emilys28/challenge11/blob/429df88e82674a4c316cd6a91c66873392055b75/graphs/mars_avg_atmosphere_pressure.png">
 - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
 -- Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 -- Visually estimate the result by plotting the daily minimum temperature.
+  <img width="1233" alt="MARS days" src="https://github.com/emilys28/challenge11/blob/429df88e82674a4c316cd6a91c66873392055b75/graphs/terrestrialdays.png">
 6. Export the DataFrame to a CSV file.
 
 # Requirements
