@@ -57,9 +57,15 @@ Assemble the scraped data into a Pandas DataFrame. The columns should have the s
 - The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types. (15 points)
 - The data was analyzed to answer the following questions: (10 points)
 - How many months exist on Mars? (5 points)
+  12
 - How many Martian days' worth of data are there? (5 points)
+  1867 days
 - The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
 - Which month, on average, has the lowest temperature? The highest? (10 points)
+  On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest.
 - Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+  Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
 - How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
+  The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot.
 - The DataFrame was exported into a CSV file. (5 points)
+  See file: mars.csv
