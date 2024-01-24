@@ -37,7 +37,7 @@ Assemble the scraped data into a Pandas DataFrame. The columns should have the s
 -- Find the average minimum daily temperature for all of the months.
 -- Plot the results as a bar chart.
   Image 1: Mars coldest and the warmest months
-<img width="1233" alt="MARS coldest & warmest months" src="https://github.com/emilys28/challenge11/blob/429df88e82674a4c316cd6a91c66873392055b75/graphs/avgmintemp_bycoldest.png">
+<img width="1233" alt="MARS coldest & warmest months" src="https://github.com/emilys28/challenge11/blob/6d46c713bc677877c9346aa3a453154be626edf8/graphs/avgmintemp_bymonth.png">
 - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
 -- Find the average daily atmospheric pressure of all the months.
 -- Plot the results as a bar chart.
