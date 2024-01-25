@@ -107,3 +107,6 @@ Assemble the scraped data into a Pandas DataFrame. The columns should have the s
 - The DataFrame was exported into a CSV file. (5 points)
   See file: mars.csv
   https://github.com/emilys28/challenge11/blob/d4abfa69e04c337c34890f25cd37d4ff5ac82671/mars.csv
+  
+# References
+The Mars News website Links to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars News Links to an external site. website in November 2022. Images are used according to the JPL Image Use Policy Links to an external site., courtesy NASA/JPL-Caltech.
